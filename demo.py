@@ -26,6 +26,11 @@ obj1 = Car()
 obj1.dataput()
 obj1.display()
 
+class Animal:
 
+    def __init__(self):
+        pass
 
+    def dog(self):
+        pass
 
